@@ -78,7 +78,6 @@ class EthereumConnector extends ConnectorBase {
                 'https://github.com/hyperledger/caliper/issues/776#issuecomment-624771622'
             );
         }
-
         //TODO: add validation logic for the rest of the configuration object
     }
 
